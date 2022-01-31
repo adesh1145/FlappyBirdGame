@@ -1,7 +1,7 @@
 # FlappyBirdGame
 if you want direct output ,open: Flapy Game Executable File
 
-	if you want run this code :
+if you want run this code :
  1. install pip
  2. install python
  3. install pygame 
