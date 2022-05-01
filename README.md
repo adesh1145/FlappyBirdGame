@@ -3,6 +3,11 @@
 then download file and run Flapy Game Executable File.exe and 
 
 press UP key and play to press up key
+
+https://user-images.githubusercontent.com/92147303/166158684-4ff222fc-77ab-44c5-a55a-85ed4ac45e63.mp4
+
+
+
 ![Screenshot (111)](https://user-images.githubusercontent.com/92147303/166158655-9a4de0fe-93b2-45bc-9a37-10469e02781b.png)
 
 
